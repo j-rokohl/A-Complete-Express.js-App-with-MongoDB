@@ -1,0 +1,23 @@
+{
+  "name": "express.js-rest-api",
+  "version": "1.0.0",
+  "description": "This is a small but complete Express.js application that demonstrates my understanding of servers, routing, middleware, MVC organization, and CRUD operations.",
+  "license": "ISC",
+  "author": "Julissa Rokohl",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "dev": "nodemon --watch server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "mongodb": "^7.7.0",
+    "morgan": "^1.12.1",
+    "nodemon": "^3.1.14",
+    "path": "^0.12.7"
+  }
+}

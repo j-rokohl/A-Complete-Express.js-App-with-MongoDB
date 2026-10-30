@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "name": "Tiger Painting",
+    "description": "A beautiful canvas artwork capturing a tiger reading, perfect for adding a quirky vibe to any room.",
+    "category": "Wall Art",
+    "price": 49.99,
+    "photo": "./assets/tiger-art-800.JPG"
+  },
+  {
+    "id": 1,
+    "name": "Tiger Blanket",
+    "description": "Ultra-soft and cozy fleece throw blanket featuring a striking tiger stripe pattern, designed for ultimate comfort and warmth.",
+    "category": "Bedding",
+    "price": 29.99,
+    "photo": "./assets/tiger-blanket-800.JPG"
+  },
+  {
+    "id": 2,
+    "name": "Tiger Costume",
+    "description": "Fun and cozy child's tiger jumpsuit costume complete with a tail and hood, ideal for parties and events.",
+    "category": "Costumes",
+    "price": 54.99,
+    "photo": "./assets/tiger-costume-800.JPG"
+  },
+  {
+    "id": 3,
+    "name": "Tiger Ears",
+    "description": "Playful and lightweight headband featuring fuzzy tiger ears, great for costumes, game days, and fun dress-up occasions.",
+    "category": "Costumes",
+    "price": 12.99,
+    "photo": "./assets/tiger-ears-800.JPG"
+  },
+  {
+    "id": 4,
+    "name": "Tiger Plate",
+    "description": "Durable decorative ceramic plate adorned with an artistic tiger illustration, suitable for display.",
+    "category": "Kitchenware",
+    "price": 18.5,
+    "photo": "./assets/tiger-plate-800.JPG"
+  },
+  {
+    "id": 5,
+    "name": "Tiger Plushie",
+    "description": "Soft and huggable stuffed tiger with realistic stripes and a friendly face, perfect for all ages.",
+    "category": "Novelty",
+    "price": 24.99,
+    "photo": "./assets/tiger-plushie-800.JPG"
+  }
+]

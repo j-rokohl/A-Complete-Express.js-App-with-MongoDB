@@ -1,0 +1,96 @@
+Status: 500 	 Message: manual test 	 Time: [2026-10-18T21:01:53.832Z]
+	Stack: Error: manual test
+    at file:///C:/Users/julis/OneDrive/Desktop/Midterm/app.js:53:19
+    at Layer.handleRequest (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:295:15
+    at processParams (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:582:12)
+    at next (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:291:5)
+    at SendStream.error (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\serve-static\index.js:120:7)
+Status: 500 	 Message: items is not defined 	 Time: [2026-10-29T03:53:44.151Z]
+	Stack: ReferenceError: items is not defined
+    at file:///C:/Users/julis/OneDrive/Desktop/Midterm/app.js:45:23
+    at Layer.handleRequest (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:295:15
+    at processParams (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:582:12)
+    at next (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:291:5)
+    at requestLogger (file:///C:/Users/julis/OneDrive/Desktop/Midterm/middleware/requestLogger.js:23:5)
+Status: 500 	 Message: items is not defined 	 Time: [2026-10-29T03:53:45.656Z]
+	Stack: ReferenceError: items is not defined
+    at file:///C:/Users/julis/OneDrive/Desktop/Midterm/app.js:45:23
+    at Layer.handleRequest (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:295:15
+    at processParams (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:582:12)
+    at next (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:291:5)
+    at requestLogger (file:///C:/Users/julis/OneDrive/Desktop/Midterm/middleware/requestLogger.js:23:5)
+Status: 500 	 Message: items is not defined 	 Time: [2026-10-29T03:53:46.422Z]
+	Stack: ReferenceError: items is not defined
+    at file:///C:/Users/julis/OneDrive/Desktop/Midterm/app.js:45:23
+    at Layer.handleRequest (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:295:15
+    at processParams (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:582:12)
+    at next (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:291:5)
+    at requestLogger (file:///C:/Users/julis/OneDrive/Desktop/Midterm/middleware/requestLogger.js:23:5)
+Status: 500 	 Message: items is not defined 	 Time: [2026-10-29T04:12:51.648Z]
+	Stack: ReferenceError: items is not defined
+    at file:///C:/Users/julis/OneDrive/Desktop/Midterm/app.js:45:23
+    at Layer.handleRequest (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:295:15
+    at processParams (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:582:12)
+    at next (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:291:5)
+    at requestLogger (file:///C:/Users/julis/OneDrive/Desktop/Midterm/middleware/requestLogger.js:23:5)
+Status: 500 	 Message: items is not defined 	 Time: [2026-10-29T04:15:48.716Z]
+	Stack: ReferenceError: items is not defined
+    at file:///C:/Users/julis/OneDrive/Desktop/Midterm/app.js:45:23
+    at Layer.handleRequest (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:295:15
+    at processParams (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:582:12)
+    at next (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:291:5)
+    at requestLogger (file:///C:/Users/julis/OneDrive/Desktop/Midterm/middleware/requestLogger.js:23:5)
+Status: 500 	 Message: page is not defined 	 Time: [2026-10-29T04:16:46.614Z]
+	Stack: ReferenceError: page is not defined
+    at file:///C:/Users/julis/OneDrive/Desktop/Midterm/app.js:45:26
+    at Layer.handleRequest (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:295:15
+    at processParams (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:582:12)
+    at next (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:291:5)
+    at requestLogger (file:///C:/Users/julis/OneDrive/Desktop/Midterm/middleware/requestLogger.js:23:5)
+Status: 500 	 Message: page is not defined 	 Time: [2026-10-29T04:16:47.565Z]
+	Stack: ReferenceError: page is not defined
+    at file:///C:/Users/julis/OneDrive/Desktop/Midterm/app.js:45:26
+    at Layer.handleRequest (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\layer.js:152:17)
+    at next (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\route.js:157:13)
+    at Route.dispatch (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\route.js:117:3)
+    at handle (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:435:11)
+    at Layer.handleRequest (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\lib\layer.js:152:17)
+    at C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:295:15
+    at processParams (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:582:12)
+    at next (C:\Users\julis\OneDrive\Desktop\Midterm\node_modules\router\index.js:291:5)
+    at requestLogger (file:///C:/Users/julis/OneDrive/Desktop/Midterm/middleware/requestLogger.js:23:5)
